@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.akquinet.arquillian</groupId>
-    <artifactId>arquillian-container-noop</artifactId>
+    <artifactId>jboss-as-arquillian-container-noop</artifactId>
     <version>0.1-SNAPSHOT</version>
 
     <dependencies>
