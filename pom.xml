@@ -71,4 +71,10 @@
         </plugins>
     </build>
 
+    <scm>
+        <connection>scm:git:https://github.com/abendt/jboss-as-arquillian-container-noop.git</connection>
+        <developerConnection>scm:git:https://github.com/abendt/jboss-as-arquillian-container-noop</developerConnection>
+        <url>https://github.com/abendt/jboss-as-arquillian-container-noop</url>
+    </scm>
+
 </project>
